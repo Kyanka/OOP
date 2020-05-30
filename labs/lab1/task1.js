@@ -1,5 +1,5 @@
 class User {
-  constructor(name, typeOfPassword) {
+  constructor(name) {
     this._name = name;
   }
   getName() {
@@ -48,4 +48,4 @@ user = new UserWithPassword(user, password);
 let users = new Users();
 users.addUser(user);
 
-users.logIn("Kyanka","123");
+users.logIn("Kyanka","12");

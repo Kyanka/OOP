@@ -13,7 +13,8 @@ class Proxy{
         if(message.length > this.length)
         console.log("Message too long");
         else
-        console.log(message);
+        this.message.send(message);
+        //console.log(message);
     }
 }
 
