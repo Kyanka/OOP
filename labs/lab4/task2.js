@@ -55,7 +55,7 @@ class ByMemory extends BuyModel{
 let products = [{name:"Lenovo",ram:8,core:4,memory:512},{name:"HP",ram:4,core:4,memory:1024},{name:"Asus",ram:4,core:8,memory:512}]
 
 let shop;
-console.log("Hello! Please choose main characteristic for notebook:");
+console.log("Hello! Please choose main characteristic for laptop:");
 console.log("1.Ram\n2.Core\n3.Memory");
 let ch = readlinesync.question("Enter number:");
 

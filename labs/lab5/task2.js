@@ -36,8 +36,8 @@ class Mediator {
   selectComputer() {
     let core = readlinesync.question(`Please choose core:${this.dealer.cores}\n`);
     let video = readlinesync.question(`Please choose video:${this.dealer.video}\n`);
-    let ram = readlinesync.question(`Please choose core:${this.dealer.ram}\n`);
-    let memory = readlinesync.question(`Please choose core:${this.dealer.memory}\n`);
+    let ram = readlinesync.question(`Please choose ram:${this.dealer.ram}\n`);
+    let memory = readlinesync.question(`Please choose memory:${this.dealer.memory}\n`);
     return new Computer(core,video,ram,memory);
   }
   addToCustomersList(name) {
