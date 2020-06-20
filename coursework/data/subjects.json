@@ -1,0 +1,22 @@
+[
+ {
+  "name": "OOP",
+  "teacher": {},
+  "group": "CP-81"
+ },
+ {
+  "name": "Epam",
+  "group": "CP-71",
+  "teacher": {
+   "gmail": "petrovich",
+   "password": "120202037",
+   "fullname": "Legezza",
+   "role": "teacher",
+   "subject": "Epam"
+  }
+ },
+ {
+  "name": "OWP",
+  "group": "CP-61"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "gmail": "mozgoprod",
+  "password": "120202037",
+  "fullname": "Katrin Mozgova",
+  "role": "admin"
+ },
+ {
+  "gmail": "carbono44ka",
+  "password": "120202037",
+  "fullname": "Kyanka",
+  "role": "student",
+  "group": "CP-81"
+ },
+ {
+  "gmail": "petrovich",
+  "password": "120202037",
+  "fullname": "Legezza",
+  "role": "teacher",
+  "subject": "Epam"
+ }
+]

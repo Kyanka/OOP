@@ -1,0 +1,26 @@
+[
+ {
+  "name": "CP-61",
+  "students": []
+ },
+ {
+  "name": "CP-81",
+  "students": [
+   {
+    "gmail": "carbono44ka",
+    "password": "120202037",
+    "fullname": "Kyanka",
+    "role": "student",
+    "group": "CP-81"
+   }
+  ]
+ },
+ {
+  "name": "CP-71",
+  "students": []
+ },
+ {
+  "name": "CP-51",
+  "students": []
+ }
+]
