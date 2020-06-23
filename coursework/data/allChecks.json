@@ -1,8 +1,29 @@
 [
  {
-  "student": "carbono44ka",
+  "student": "mozgoprod",
   "subject": "Epam",
-  "checks": [
+  "values": [
+   {
+    "value": "p"
+   },
+   {
+    "value": "p"
+   },
+   {
+    "value": "p"
+   },
+   {
+    "value": "a"
+   }
+  ]
+ },
+ {
+  "student": "carbono44ka",
+  "subject": "Matan",
+  "values": [
+   {
+    "value": "p"
+   },
    {
     "value": "p"
    },

@@ -5,18 +5,12 @@
   "group": "CP-81"
  },
  {
-  "name": "Epam",
+  "name": "Matan",
   "group": "CP-71",
-  "teacher": {
-   "gmail": "petrovich",
-   "password": "120202037",
-   "fullname": "Legezza",
-   "role": "teacher",
-   "subject": "Epam"
-  }
+  "teacher": "petrovich"
  },
  {
   "name": "OWP",
-  "group": "CP-61"
+  "group": "CP-71"
  }
 ]

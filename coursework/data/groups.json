@@ -1,26 +1,24 @@
 [
  {
-  "name": "CP-61",
+  "name": "CP-71",
+  "students": [
+   "carbono44ka"
+  ]
+ },
+ {
+  "name": "CP-51",
+  "students": []
+ },
+ {
+  "name": "CP-41",
   "students": []
  },
  {
   "name": "CP-81",
-  "students": [
-   {
-    "gmail": "carbono44ka",
-    "password": "120202037",
-    "fullname": "Kyanka",
-    "role": "student",
-    "group": "CP-81"
-   }
-  ]
- },
- {
-  "name": "CP-71",
   "students": []
  },
  {
-  "name": "CP-51",
+  "name": "С-3PO",
   "students": []
  }
 ]
